@@ -26,17 +26,6 @@
 
 
 
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/DevMarkosM">
-        <img title="Markos.M stats" alt="Markos.M streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Fnoberz&theme=dark&hide_border=true&stroke=f53b3b"/>
-    </a>
-</p><br>
-<a href="https://github.com/DevMarkosM"><img alt="Markos.M Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DevMarkosM&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-  
-
-
 
 <h2 align="center">Contact me</h2>
 
